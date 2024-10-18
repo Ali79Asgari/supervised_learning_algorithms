@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="token" value="466da81127f7780347598c5ded3b75d74e9723f1e80abba9" />
+          <option name="urlString" value="http://localhost:8888" />
+          <authParams2>
+            <map>
+              <entry key="token" value="466da81127f7780347598c5ded3b75d74e9723f1e80abba9" />
+            </map>
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
+    <option name="moduleParameters">
+      <map>
+        <entry key="$PROJECT_DIR$/.idea/supervised_learning_algorithms.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="authType" value="notebook" />
+              <option name="token" value="466da81127f7780347598c5ded3b75d74e9723f1e80abba9" />
+              <option name="urlString" value="http://localhost:8888" />
+              <authParams2>
+                <map>
+                  <entry key="token" value="466da81127f7780347598c5ded3b75d74e9723f1e80abba9" />
+                </map>
+              </authParams2>
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
